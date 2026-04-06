@@ -1,0 +1,316 @@
+Roll_Number,Student_Name,Department,Course_ID,Course_Name,Instructor_ID,Instructor_Name,Semester,Teaching_Quality,Communication_Skills,Punctuality,Course_Coverage,Doubt_Clarification,Overall_Satisfaction,Sentiment_Score,Assignment_Score,Exam_Score,Attendance_Percentage,Comments
+S2093,Priya Joshi,EEE,C1002,Data Structures,I501,Deepak Sharma,4,4,1,4,,1,3,-0.15,77,83,91,"Average experience, can be improved."
+S2223,Divya Sharma,CIVIL,C1014,Structural Engineering,I505,Swathi Chowdhury,4,1,5,2,5,3,3,0,79,43,67,"Average experience, can be improved."
+S2065,Pooja Gupta,ECE,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,2,,2,5,5,3,-0.18,69,72,61,"Average experience, can be improved."
+S2244,Aditya Joshi,MECH,C1017,Operating Systems,I506,Sunitha Menon,4,5,5,4,1,3,4,0.67,67,54,76,Very satisfied with the course and teaching.
+S2011,Neha Rao,MECH,C1017,Operating Systems,I506,Sunitha Menon,4,5,1,2,5,,3,0.14,,43,60,"Average experience, can be improved."
+S2132,Anjali Rao,CIVIL,C1016,Programming in C,I506,Sunitha Menon,3,2,1,4,,5,3,-0.14,93,41,66,"Average experience, can be improved."
+S2025,Rohit Reddy,EEE,C1009,Power Systems,I503,Sunitha Rao,5,2,2,2,3,3,2,-0.72,91,90,83,Gooood teaching but improvemnt needed
+S2181,Manoj Choudhary,CSE,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,1,4,3,,5,3,0.09,,85,77,"Average experience, can be improved."
+S2295,Pooja Kumar,IT,C1001,Python Programming,I501,Deepak Sharma,3,10,4,2,2,4,3,-0.01,95,70,99,"Average experience, can be improved."
+S2253,Kavya Choudhary,ECE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,3,3,2,4,1,3,-0.19,79,73,79,"Average experience, can be improved."
+S2270,Manoj Verma,CSE,C1014,Structural Engineering,I505,Swathi Chowdhury,4,5,3,1,1,4,3,-0.12,100,97,60,
+S2143,Meena Singh  ,MECH,C1001,Python Programming,I501,Deepak Sharma,3,1,2,3,1,2,2,-0.84,99,64,99,Needs improvement in teaching and clarification.
+S2047,Arjun Reddy,CIVIL,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,1,,4,4,3,3,-0.03,75,,64,"Average experience, can be improved."
+S2258,Meena Joshi,MECH,C1004,Digital Electronics,I502,Sunitha Rao,3,4,5,3,3,5,4,0.73,62,44,98,Very satisfied with the course and teaching.
+S2229,Neha Verma,CIVIL,C1016,Programming in C,I506,Sunitha Menon,3,3,2,2,2,1,2,-0.98,61,90,97,Needs improvement in teaching and clarification.
+S2300,Meena Reddy,ECE,C1009,Power Systems,I503,Sunitha Rao,5,1,5,,2,1,2,-0.43,46,67,105,Needs improvement in teaching and clarification.
+S2168,Arjun Joshi,MECH,C1003,Database Management Systems,I501,Deepak Sharma,5,,2,3,1,4,3,-0.06,56,89,63,"Average experience, can be improved."
+S2132,Anjali Rao,CIVIL,C1010,Engineering Mechanics,I504,Prakash Naidu,3,5,1,4,,5,4,0.66,91,97,98,Very satisfied with the course and teaching.
+S2237,Priya Patel,CIVIL,C1011,Thermodynamics,I504,Prakash Naidu,4,3,2,5,1,1,2,-0.55,90,56,84,Needs improvement in teaching and clarification.
+S2234,Aditya Choudhary,ECE,C1001,Python Programming,I501,Deepak Sharma,3,4,2,3,3,1,3,-0.17,98,91,80,"Average experience, can be improved."
+S2200,Rahul Singh,CSE,C1016,Programming in C,I506,Sunitha Menon,3,5,4,4,1,1,3,0.07,,88,75,"Average experience, can be improved."
+S2247,Rohit Iyer,CSE,C1016,Programming in C,I506,Sunitha Menon,3,5,1,5,4,4,4,0.79,91,85,70,Very satisfied with the course and teaching.
+S2111,Rohit Naidu,MECH,C1002,Data Structures,I501,Deepak Sharma,4,4,1,3,4,1,3,0.07,64,58,64,"Average experience, can be improved."
+S2279,Priya Verma,IT,C1016,Programming in C,I506,Sunitha Menon,3,3,5,2,5,1,3,-0.12,70,58,84,"Average experience, can be improved."
+S2039,Sneha Sharma,MECH,C1006,Communication Systems,I502,Sunitha Rao,5,5,4,4,3,4,4,0.61,83,43,96,Very satisfied with the course and teaching.
+S2280,Rahul Patel,MECH,C1009,Power Systems,I503,Sunitha Rao,5,10,2,1,4,5,3,0.04,57,66,70,"Average experience, can be improved."
+S2055,Kavya Patel,MECH,C1009,Power Systems,I503,Sunitha Rao,5,1,5,4,2,3,3,0.15,85,,100,"Average experience, can be improved."
+S2271,Arjun Sharma,CIVIL,C1018,Computer Networks,I506,Sunitha Menon,5,1,4,5,1,4,3,-0.18,44,78,61,"Average experience, can be improved."
+S2286,Pooja Gupta,MECH,C1002,Data Structures,I501,Deepak Sharma,4,5,3,1,1,2,2,-0.71,86,67,80,Needs improvement in teaching and clarification.
+S2215,Kiran Reddy,CIVIL,C1006,Communication Systems,I502,Sunitha Rao,5,5,5,1,1,2,3,-0.1,65,59,67,"Average experience, can be improved."
+S2227,Rohit Singh,EEE,C1010,Engineering Mechanics,I504,Prakash Naidu,3,4,1,4,5,1,3,0.04,96,85,99,"Average experience, can be improved."
+S2181,Manoj Choudhary,CSE,C1004,Digital Electronics,I502,Sunitha Rao,3,1,4,,4,2,3,0.13,94,61,79,"Average experience, can be improved."
+S2199,Rohit Reddy,IT,C1010,Engineering Mechanics,I504,Prakash Naidu,3,2,2,2,3,1,2,-0.83,67,54,105,Needs improvement in teaching and clarification.
+S2049,Manoj Rao,CIVIL,C1017,Operating Systems,I506,Sunitha Menon,4,2,3,1,1,3,2,-0.84,55,93,66,Needs improvement in teaching and clarification.
+S2064,Sanjay Verma,EEE,C1003,Database Management Systems,I501,Deepak Sharma,5,3,5,1,4,1,3,0.13,100,51,75,"Average experience, can be improved."
+S2188,Manoj Verma,IT,C1009,Power Systems,I503,Sunitha Rao,5,4,2,3,4,3,3,0.12,68,56,92,"Average experience, can be improved."
+S2281,Pooja Patel,EEE,C1007,Electrical Circuits,I503,Sunitha Rao,3,4,5,1,4,1,3,-0.06,51,83,76,"Average experience, can be improved."
+S2267,Pooja Joshi,CIVIL,C1014,Structural Engineering,I505,Swathi Chowdhury,4,3,2,3,1,4,3,0.11,83,74,65,"Average experience, can be improved."
+S2288,Kiran Singh,ECE,C1006,Communication Systems,I502,Sunitha Rao,5,3,3,1,1,3,2,-0.72,,69,60,Needs improvement in teaching and clarification.
+S2050,Neha Sharma,CSE,C1006,Communication Systems,I502,Sunitha Rao,5,3,1,5,5,3,3,0.19,80,60,85,"Average experience, can be improved."
+S2127,Neha Naidu,ECE,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,2,2,4,4,1,3,0.07,55,62,85,"Average experience, can be improved."
+S2143,Meena Singh,MECH,C1016,Programming in C,I506,Sunitha Menon,3,3,4,2,3,5,3,-0.08,77,47,72,"Average experience, can be improved."
+S2024,Divya Gupta  ,CSE,C1004,Digital Electronics,I502,Sunitha Rao,3,3,3,4,3,4,3,0.06,98,79,89,"Average experience, can be improved."
+S2066,Rohit Singh,IT,C1017,Operating Systems,I506,Sunitha Menon,4,,3,1,1,5,3,-0.16,,77,66,"Average experience, can be improved."
+S2058,Divya Singh,MECH,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,5,3,3,5,3,4,0.55,49,,61,Very satisfied with the course and teaching.
+S2039,Sneha Sharma,MECH,C1012,Machine Design,I504,Prakash Naidu,5,2,5,2,1,5,3,0.17,54,42,77,"Average experience, can be improved."
+S2028,Meena Kumar,EEE,C1012,Machine Design,I504,Prakash Naidu,5,2,1,3,,2,2,-0.8,88,52,79,Needs improvement in teaching and clarification.
+S2136,Anjali Reddy,EEE,C1016,Programming in C,I506,Sunitha Menon,3,4,,5,5,3,4,0.35,79,42,82,
+S2119,Vikram Joshi,CSE,C1016,Programming in C,I506,Sunitha Menon,3,5,5,3,3,3,4,0.39,61,50,95,Very satisfied with the course and teaching.
+S2105,Kiran Rao,EEE,C1011,Thermodynamics,I504,Prakash Naidu,4,3,2,5,4,1,3,-0.19,87,47,99,"Average experience, can be improved."
+S2136,Anjali Reddy,EEE,C1007,Electrical Circuits,I503,Sunitha Rao,3,3,4,1,2,,2,-0.7,67,64,105,Needs improvement in teaching and clarification.
+S2199,Rohit Reddy,IT,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,4,3,4,4,5,4,0.71,73,63,63,Very satisfied with the course and teaching.
+S2290,Rohit Gupta,EEE,C1014,Structural Engineering,I505,Swathi Chowdhury,4,4,4,4,3,1,3,0.18,58,,89,"Average experience, can be improved."
+S2125,Sanjay Iyer,CIVIL,C1005,Signals and Systems,I502,Sunitha Rao,4,2,1,,2,3,2,-0.65,56,93,74,Needs improvement in teaching and clarification.
+S2067,Kavya Sharma,CIVIL,C1005,Signals and Systems,I502,Sunitha Rao,4,1,3,3,1,5,3,0.17,81,46,76,"Average experience, can be improved."
+S2148,Neha Reddy,ECE,C1007,Electrical Circuits,I503,Sunitha Rao,3,2,2,4,3,1,2,-0.64,49,73,91,Needs improvement in teaching and clarification.
+S2229,Neha Verma,CIVIL,C1010,Engineering Mechanics,I504,Prakash Naidu,3,1,1,1,4,4,2,-0.89,57,100,89,Needs improvement in teaching and clarification.
+S2200,Rahul Singh,CSE,C1004,Digital Electronics,I502,Sunitha Rao,3,5,5,2,4,2,4,0.45,80,68,65,Very satisfied with the course and teaching.
+S2069,Kiran Joshi,CIVIL,C1007,Electrical Circuits,I503,Sunitha Rao,3,2,4,,3,1,3,0.17,53,86,65,"Average experience, can be improved."
+S2144,Priya Reddy,ECE,C1014,Structural Engineering,I505,Swathi Chowdhury,4,5,2,1,4,2,3,0.1,61,61,99,"Average experience, can be improved."
+S2210,Kavya Kumar,IT,C1001,Python Programming,I501,Deepak Sharma,3,3,5,4,5,5,4,0.96,61,70,95,Very satisfied with the course and teaching.
+S2140,Divya Gupta,IT,C1012,Machine Design,I504,Prakash Naidu,5,3,6,1,5,,4,0.48,99,75,68,
+S2003,Meena Verma,ECE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,1,4,1,5,2,3,0.06,99,42,78,"Average experience, can be improved."
+S2203,Rahul Kumar,EEE,C1016,Programming in C,I506,Sunitha Menon,3,3,3,4,5,5,4,0.78,69,65,76,Very satisfied with the course and teaching.
+S2134,Kiran Joshi,IT,C1002,Data Structures,I501,Deepak Sharma,4,4,3,1,5,2,3,-0.17,98,98,69,"Average experience, can be improved."
+S2289,Meena Choudhary,CIVIL,C1012,Machine Design,I504,Prakash Naidu,5,2,1,3,4,2,2,-0.43,69,93,83,Needs improvement in teaching and clarification.
+S2164,Sneha Sharma,IT,C1003,Database Management Systems,I501,Deepak Sharma,5,4,3,1,1,4,3,-0.06,62,92,77,
+S2300,Meena Reddy,ECE,C1018,Computer Networks,I506,Sunitha Menon,5,2,2,2,3,1,2,-0.68,58,100,69,
+S2193,Sneha Rao,ECE,C1016,Programming in C,I506,Sunitha Menon,3,4,4,2,5,1,3,-0.1,57,57,95,"Average experience, can be improved."
+S2114,Sneha Patel,  CIVIL,C1001,Python Programming,I501,Deepak Sharma,3,4,3,2,,3,3,-0.12,78,65,90,"Average experience, can be improved."
+S2064,Sanjay Verma,EEE,C1018,Computer Networks,I506,Sunitha Menon,5,4,2,3,4,5,4,0.74,48,66,95,Very satisfied with the course and teaching.
+S2131,Sanjay Verma,CSE,C1012,Machine Design,I504,Prakash Naidu,5,5,4,4,5,2,4,0.44,68,50,90,Very satisfied with the course and teaching.
+S2274,Priya Naidu,CSE,C1008,Electrical Machines,I503,Sunitha Rao,4,2,4,3,5,4,4,0.3,43,52,67,Very satisfied with the course and teaching.
+S2059,Priya Verma,IT,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,2,,3,1,5,3,-0.01,60,40,88,"Average experience, can be improved."
+S2264,Divya Kumar,CSE,C1016,Programming in C,I506,Sunitha Menon,3,10,2,,2,3,2,-0.94,56,98,88,Needs improvement in teaching and clarification.
+S2012,Rahul Verma,CIVIL,C1002,Data Structures,I501,Deepak Sharma,4,2,1,5,5,1,3,-0.03,49,98,,"Average experience, can be improved."
+S2178,Sneha Gupta,EEE,C1005,Signals and Systems,I502,Sunitha Rao,4,3,2,1,,5,3,-0.04,71,89,88,"Average experience, can be improved."
+S2063,Aditya Singh,  CIVIL,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,1,1,3,2,3,2,-0.37,96,44,73,Needs improvement in teaching and clarification.
+S2111,Rohit Naidu,MECH,C1008,Electrical Machines,I503,Sunitha Rao,4,5,5,4,5,3,4,0.98,,41,100,Very satisfied with the course and teaching.
+S2202,Rohit Singh,CIVIL,C1011,Thermodynamics,I504,Prakash Naidu,4,1,1,4,3,1,2,-0.38,42,64,99,Needs improvement in teaching and clarification.
+S2178,Sneha Gupta,EEE,C1017,Operating Systems,I506,Sunitha Menon,4,1,5,1,1,4,2,-0.44,76,89,92,Needs improvement in teaching and clarification.
+S2116,Pooja Rao,IT,C1016,Programming in C,I506,Sunitha Menon,3,10,5,4,5,5,4,0.86,54,,72,Very satisfied with the course and teaching.
+S2073,Pooja Gupta,  MECH,C1017,Operating Systems,I506,Sunitha Menon,4,4,2,,4,4,3,-0.19,,50,75,"Average experience, can be improved."
+S2064,Sanjay Verma,EEE,C1012,Machine Design,I504,Prakash Naidu,5,4,4,5,1,1,3,-0.2,90,90,64,"Average experience, can be improved."
+S2214,Sneha Rao,ECE,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,4,4,5,1,4,4,0.68,96,68,65,Very satisfied with the course and teaching.
+S2227,Rohit Singh,EEE,C1010,Engineering Mechanics,I504,Prakash Naidu,3,3,3,4,2,2,3,-0.05,97,89,,"Average experience, can be improved."
+S2080,Rahul Joshi,ECE,C1010,Engineering Mechanics,I504,Prakash Naidu,3,4,1,3,1,3,2,-0.92,54,61,77,Needs improvement in teaching and clarification.
+S2087,Neha Joshi,CIVIL,C1018,Computer Networks,I506,Sunitha Menon,5,4,4,4,,,4,0.34,77,51,74,Gooood teaching but improvemnt needed
+S2058,Divya Singh,MECH,C1016,Programming in C,I506,Sunitha Menon,3,5,5,2,3,4,4,0.64,80,78,77,Very satisfied with the course and teaching.
+S2273,Sanjay Kumar,CIVIL,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,4,1,2,3,2,2,-0.83,79,91,82,Needs improvement in teaching and clarification.
+S2232,Divya Rao,EEE,C1007,Electrical Circuits,I503,Sunitha Rao,3,,3,2,2,1,3,-0.13,68,64,86,"Average experience, can be improved."
+S2260,Priya Gupta,IT,C1017,Operating Systems,I506,Sunitha Menon,4,3,2,1,3,3,2,-0.52,93,62,70,Needs improvement in teaching and clarification.
+S2102,Priya Singh,CSE,C1006,Communication Systems,I502,Sunitha Rao,5,3,1,3,3,3,3,0.03,50,79,88,"Average experience, can be improved."
+S2112,Sanjay Sharma,MECH,C1008,Electrical Machines,I503,Sunitha Rao,4,4,1,4,5,1,3,-0.18,79,,63,"Average experience, can be improved."
+S2016,Neha Gupta  ,EEE,C1009,Power Systems,I503,Sunitha Rao,5,3,3,1,2,4,3,-0.08,45,61,83,"Average experience, can be improved."
+S2101,Priya Reddy,ECE,C1011,Thermodynamics,I504,Prakash Naidu,4,4,3,5,4,3,4,0.64,96,66,63,Very satisfied with the course and teaching.
+S2028,Meena Kumar,EEE,C1018,Computer Networks,I506,Sunitha Menon,5,4,4,4,3,4,4,0.41,71,42,88,Very satisfied with the course and teaching.
+S2180,Neha Choudhary,MECH,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,2,,5,5,2,3,-0.1,98,52,74,"Average experience, can be improved."
+S2293,Meena Rao,MECH,C1002,Data Structures,I501,Deepak Sharma,4,3,3,4,1,5,3,0.08,57,43,84,Gooood teaching but improvemnt needed
+S2271,Arjun Sharma,CIVIL,C1012,Machine Design,I504,Prakash Naidu,5,1,1,1,3,1,1,-0.82,96,84,,Needs improvement in teaching and clarification.
+S2143,Meena Singh,MECH,C1016,Programming in C,I506,Sunitha Menon,3,1,3,1,1,2,2,-0.41,93,70,90,Needs improvement in teaching and clarification.
+S2088,Aditya Iyer,IT,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,2,,2,4,2,3,0.1,46,81,75,"Average experience, can be improved."
+S2263,Kavya Choudhary,CIVIL,C1016,Programming in C,I506,Sunitha Menon,3,2,3,5,4,2,3,-0.17,66,80,80,"Average experience, can be improved."
+S2095,Priya Choudhary,MECH,C1016,Programming in C,I506,Sunitha Menon,3,,3,4,3,2,3,0.07,89,79,,Gooood teaching but improvemnt needed
+S2293,Meena Rao,MECH,C1002,Data Structures,I501,Deepak Sharma,4,5,3,2,1,3,3,0.12,50,74,80,"Average experience, can be improved."
+S2163,Meena Choudhary,CIVIL,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,3,2,2,3,4,3,-0.17,84,50,84,
+S2003,Meena Verma,ECE,C1018,Computer Networks,I506,Sunitha Menon,5,1,,4,1,2,3,-0.04,74,53,71,"Average experience, can be improved."
+S2040,Sneha Kumar,CSE,C1010,Engineering Mechanics,I504,Prakash Naidu,3,2,1,,4,3,3,0.2,91,79,66,"Average experience, can be improved."
+S2267,Pooja Joshi,CIVIL,C1005,Signals and Systems,I502,Sunitha Rao,4,1,5,3,3,1,3,0.02,89,91,86,"Average experience, can be improved."
+S2173,Priya Choudhary,CSE,C1010,Engineering Mechanics,I504,Prakash Naidu,3,5,1,1,,3,3,-0.19,94,81,62,"Average experience, can be improved."
+S2285,Rahul Kumar,IT,C1014,Structural Engineering,I505,Swathi Chowdhury,4,4,3,,5,1,3,0.04,81,94,87,"Average experience, can be improved."
+S2020,Sneha Gupta,MECH,C1011,Thermodynamics,I504,Prakash Naidu,4,4,3,,1,3,2,-0.5,93,90,98,Needs improvement in teaching and clarification.
+S2047,Arjun Reddy,CIVIL,C1012,Machine Design,I504,Prakash Naidu,5,,5,4,5,2,4,0.34,53,68,89,Very satisfied with the course and teaching.
+S2042,Divya Patel,MECH,C1017,Operating Systems,I506,Sunitha Menon,4,2,5,1,5,2,3,-0.02,87,41,100,"Average experience, can be improved."
+S2054,Neha Patel  ,CSE,C1004,Digital Electronics,I502,Sunitha Rao,3,3,1,5,5,2,3,-0.07,59,41,81,"Average experience, can be improved."
+S2158,Vikram Rao,CIVIL,C1004,Digital Electronics,I502,Sunitha Rao,3,4,2,2,4,3,3,-0.14,85,60,82,"Average experience, can be improved."
+S2068,Priya Singh,CSE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,5,4,4,4,5,4,0.87,,53,96,Very satisfied with the course and teaching.
+S2294,Pooja Singh,CIVIL,C1008,Electrical Machines,I503,Sunitha Rao,4,1,3,2,2,3,2,-0.89,49,50,69,Needs improvement in teaching and clarification.
+S2297,Kavya Iyer,CSE,C1005,Signals and Systems,I502,Sunitha Rao,4,4,3,3,1,5,3,-0.08,76,41,60,"Average experience, can be improved."
+S2181,Manoj Choudhary,CSE,C1010,Engineering Mechanics,I504,Prakash Naidu,3,1,2,2,2,2,2,-0.75,94,84,65,Needs improvement in teaching and clarification.
+S2169,Kavya Reddy,IT,C1003,Database Management Systems,I501,Deepak Sharma,5,1,2,3,4,3,3,0,100,71,76,"Average experience, can be improved."
+S2048,Sneha Naidu,  EEE,C1012,Machine Design,I504,Prakash Naidu,5,5,5,5,2,2,4,0.72,94,87,72,Very satisfied with the course and teaching.
+S2093,Priya Joshi,EEE,C1008,Electrical Machines,I503,Sunitha Rao,4,2,5,5,5,,4,0.89,40,94,71,Very satisfied with the course and teaching.
+S2133,Kavya Kumar,CSE,C1008,Electrical Machines,I503,Sunitha Rao,4,3,4,4,2,5,4,0.38,94,,93,Very satisfied with the course and teaching.
+S2245,Vikram Patel,CIVIL,C1009,Power Systems,I503,Sunitha Rao,5,4,5,5,1,5,4,0.86,79,75,78,Very satisfied with the course and teaching.
+S2287,Meena Sharma,CIVIL,C1014,Structural Engineering,I505,Swathi Chowdhury,4,,2,2,4,4,3,-0.07,56,87,94,"Average experience, can be improved."
+S2030,Sneha Reddy,IT,C1017,Operating Systems,I506,Sunitha Menon,4,4,1,5,2,3,3,0.13,47,42,93,"Average experience, can be improved."
+S2205,Meena Patel,EEE,C1001,Python Programming,I501,Deepak Sharma,3,1,5,2,4,4,3,-0.13,77,42,74,
+S2204,Rohit Joshi,ECE,C1001,Python Programming,I501,Deepak Sharma,3,5,3,5,1,3,3,0.16,51,97,89,"Average experience, can be improved."
+S2246,Rohit Choudhary,ECE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,10,2,3,4,2,2,-0.6,99,77,65,Needs improvement in teaching and clarification.
+S2226,Sneha Singh,CSE,C1002,Data Structures,I501,Deepak Sharma,4,5,3,4,1,4,3,0.07,50,47,72,"Average experience, can be improved."
+S2134,Kiran Joshi,IT,C1014,Structural Engineering,I505,Swathi Chowdhury,4,3,1,1,1,5,2,-0.99,93,90,61,Needs improvement in teaching and clarification.
+S2272,Priya Naidu,CIVIL,C1006,Communication Systems,I502,Sunitha Rao,5,2,3,2,1,1,2,-0.73,95,63,85,Needs improvement in teaching and clarification.
+S2292,Priya Singh,ECE,C1008,Electrical Machines,I503,Sunitha Rao,4,1,5,3,2,2,3,-0.13,74,98,82,"Average experience, can be improved."
+S2031,Manoj Joshi,EEE,C1004,Digital Electronics,I502,Sunitha Rao,3,,6,3,3,5,3,0.1,48,77,68,"Average experience, can be improved."
+S2145,Sanjay Singh,CIVIL,C1012,Machine Design,I504,Prakash Naidu,5,3,,1,2,,2,-0.91,80,45,,Needs improvement in teaching and clarification.
+S2204,Rohit Joshi,ECE,C1007,Electrical Circuits,I503,Sunitha Rao,3,1,3,1,4,4,3,0.2,86,63,73,"Average experience, can be improved."
+S2290,Rohit Gupta,EEE,C1017,Operating Systems,I506,Sunitha Menon,4,3,3,3,2,,3,0.12,,55,92,"Average experience, can be improved."
+S2174,Sneha Joshi,EEE,C1011,Thermodynamics,I504,Prakash Naidu,4,2,4,4,1,3,3,0.01,81,56,69,"Average experience, can be improved."
+S2188,Manoj Verma,IT,C1012,Machine Design,I504,Prakash Naidu,5,1,3,4,5,1,3,-0.18,82,88,76,"Average experience, can be improved."
+S2229,Neha Verma,  CIVIL,C1016,Programming in C,I506,Sunitha Menon,3,3,5,3,2,1,3,0.04,,67,61,"Average experience, can be improved."
+S2218,Meena Sharma,MECH,C1009,Power Systems,I503,Sunitha Rao,5,5,3,1,3,1,3,0.15,95,96,91,"Average experience, can be improved."
+S2085,Pooja Sharma,MECH,C1008,Electrical Machines,I503,Sunitha Rao,4,5,1,4,3,5,4,0.97,90,96,68,
+S2165,Sanjay Patel,CIVIL,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,5,3,2,5,4,4,0.6,41,95,99,Very satisfied with the course and teaching.
+S2236,Divya Joshi,CIVIL,C1002,Data Structures,I501,Deepak Sharma,4,3,1,3,5,1,3,0.04,44,66,72,"Average experience, can be improved."
+S2260,Priya Gupta,IT,C1011,Thermodynamics,I504,Prakash Naidu,4,5,4,2,4,2,3,0.19,40,65,66,"Average experience, can be improved."
+S2163,Meena Choudhary,CIVIL,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,2,3,1,4,3,3,0.18,71,76,88,"Average experience, can be improved."
+S2128,Kiran Naidu,IT,C1011,Thermodynamics,I504,Prakash Naidu,4,3,5,3,3,5,4,0.83,60,88,93,Very satisfied with the course and teaching.
+S2007,Priya Sharma,MECH,C1001,Python Programming,I501,Deepak Sharma,3,3,1,2,5,1,2,-0.59,80,70,98,Needs improvement in teaching and clarification.
+S2123,Rohit Verma,CSE,C1011,Thermodynamics,I504,Prakash Naidu,4,5,,3,2,2,3,0.09,100,69,93,
+S2124,Manoj Choudhary,MECH,C1017,Operating Systems,I506,Sunitha Menon,4,5,2,4,5,1,3,0.12,48,93,97,"Average experience, can be improved."
+S2008,Arjun Sharma,EEE,C1007,Electrical Circuits,I503,Sunitha Rao,3,1,5,3,3,5,3,-0.06,52,65,78,"Average experience, can be improved."
+S2056,Neha Choudhary,MECH,C1018,Computer Networks,I506,Sunitha Menon,5,5,,4,4,2,4,0.91,64,70,87,Very satisfied with the course and teaching.
+S2221,Anjali Iyer,ECE,C1009,Power Systems,I503,Sunitha Rao,5,5,1,4,1,2,3,0.14,80,51,94,"Average experience, can be improved."
+S2101,Priya Reddy,ECE,C1014,Structural Engineering,I505,Swathi Chowdhury,4,1,2,5,2,5,3,0.11,48,58,87,"Average experience, can be improved."
+S2177,Kiran Naidu,MECH,C1010,Engineering Mechanics,I504,Prakash Naidu,3,4,5,2,2,2,3,0.01,63,60,67,"Average experience, can be improved."
+S2266,Vikram Iyer,CSE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,3,3,4,5,2,3,0.16,59,88,79,Gooood teaching but improvemnt needed
+S2209,Anjali Singh,IT,C1011,Thermodynamics,I504,Prakash Naidu,4,5,3,1,3,3,3,-0.09,82,88,97,"Average experience, can be improved."
+S2237,Priya Patel,CIVIL,C1008,Electrical Machines,I503,Sunitha Rao,4,3,4,1,2,4,3,-0.17,73,88,93,"Average experience, can be improved."
+S2062,Sanjay Verma  ,CIVIL,C1017,Operating Systems,I506,Sunitha Menon,4,1,2,3,1,,2,-0.33,84,40,68,Needs improvement in teaching and clarification.
+S2290,Rohit Gupta,EEE,C1008,Electrical Machines,I503,Sunitha Rao,4,1,3,2,2,2,2,-0.88,45,95,62,Needs improvement in teaching and clarification.
+S2286,Pooja Gupta,MECH,C1017,Operating Systems,I506,Sunitha Menon,4,1,3,2,1,4,2,-0.5,79,85,81,Needs improvement in teaching and clarification.
+S2188,Manoj Verma,IT,C1018,Computer Networks,I506,Sunitha Menon,5,5,2,3,5,5,4,0.95,80,87,66,Very satisfied with the course and teaching.
+S2062,Sanjay Verma,CIVIL,C1014,Structural Engineering,I505,Swathi Chowdhury,4,3,1,4,1,2,2,-0.49,50,91,67,Needs improvement in teaching and clarification.
+S2023,Sanjay Gupta,CSE,C1009,Power Systems,I503,Sunitha Rao,5,4,3,1,4,2,3,-0.08,62,98,78,"Average experience, can be improved."
+S2092,Aditya Patel,IT,C1002,Data Structures,I501,Deepak Sharma,4,3,5,1,5,4,4,0.32,95,85,72,Very satisfied with the course and teaching.
+S2151,Manoj Naidu,CSE,C1006,Communication Systems,I502,Sunitha Rao,5,10,1,4,1,4,3,-0.19,77,98,83,"Average experience, can be improved."
+S2280,Rahul Patel,MECH,C1003,Database Management Systems,I501,Deepak Sharma,5,3,1,2,3,1,2,-0.62,71,56,88,Needs improvement in teaching and clarification.
+S2206,Kiran Joshi,MECH,C1005,Signals and Systems,I502,Sunitha Rao,4,3,3,1,3,4,3,0.16,78,48,94,"Average experience, can be improved."
+S2177,Kiran Naidu,MECH,C1016,Programming in C,I506,Sunitha Menon,3,2,1,2,4,3,2,-0.96,65,75,70,Needs improvement in teaching and clarification.
+S2298,Sanjay Joshi,CSE,C1004,Digital Electronics,I502,Sunitha Rao,3,1,2,4,4,3,3,0.18,58,62,64,"Average experience, can be improved."
+S2209,Anjali Singh,IT,C1017,Operating Systems,I506,Sunitha Menon,4,5,3,,,5,4,0.67,86,75,73,Very satisfied with the course and teaching.
+S2026,Priya Naidu,CSE,C1001,Python Programming,I501,Deepak Sharma,3,2,4,2,1,3,2,-0.44,92,46,79,Needs improvement in teaching and clarification.
+S2256,Meena Sharma,CSE,C1001,Python Programming,I501,Deepak Sharma,3,4,1,5,3,5,4,0.98,,72,66,Very satisfied with the course and teaching.
+S2223,Divya Sharma,CIVIL,C1011,Thermodynamics,I504,Prakash Naidu,4,4,2,2,4,5,3,-0.13,88,40,70,"Average experience, can be improved."
+S2140,Divya Gupta,IT,C1012,Machine Design,I504,Prakash Naidu,5,3,2,3,3,2,3,0.12,47,51,,
+S2183,Arjun Gupta,IT,C1007,Electrical Circuits,I503,Sunitha Rao,3,4,1,5,3,5,4,0.41,68,68,60,Very satisfied with the course and teaching.
+S2192,Sanjay Verma,CIVIL,C1014,Structural Engineering,I505,Swathi Chowdhury,4,2,5,,2,4,3,0.09,87,72,83,
+S2078,Neha Verma,IT,C1016,Programming in C,I506,Sunitha Menon,3,4,4,2,5,1,3,0.04,94,75,97,"Average experience, can be improved."
+S2112,Sanjay Sharma,MECH,C1011,Thermodynamics,I504,Prakash Naidu,4,4,5,4,5,5,5,0.59,61,54,75,Very satisfied with the course and teaching.
+S2287,Meena Sharma,CIVIL,C1008,Electrical Machines,I503,Sunitha Rao,4,,1,4,4,3,3,-0.16,82,70,93,"Average experience, can be improved."
+S2188,Manoj Verma,  IT,C1018,Computer Networks,I506,Sunitha Menon,5,4,1,2,2,3,2,-0.65,46,55,70,Needs improvement in teaching and clarification.
+S2096,Arjun Joshi,MECH,C1007,Electrical Circuits,I503,Sunitha Rao,3,1,5,4,1,1,2,-0.38,47,64,94,Needs improvement in teaching and clarification.
+S2147,Rahul Choudhary,ECE,C1017,Operating Systems,I506,Sunitha Menon,4,3,4,5,5,1,4,0.87,56,83,60,Very satisfied with the course and teaching.
+S2195,Sanjay Reddy,CIVIL,C1007,Electrical Circuits,I503,Sunitha Rao,3,3,1,4,4,4,3,-0.11,100,75,60,"Average experience, can be improved."
+S2064,Sanjay Verma,EEE,C1018,Computer Networks,I506,Sunitha Menon,5,5,1,4,1,3,3,-0.06,54,67,64,"Average experience, can be improved."
+S2058,Divya Singh,MECH,C1016,Programming in C,I506,Sunitha Menon,3,5,2,3,1,5,3,-0.05,80,89,75,Gooood teaching but improvemnt needed
+S2187,Arjun Rao,CSE,C1008,Electrical Machines,I503,Sunitha Rao,4,3,2,1,2,1,2,-0.43,66,96,93,Needs improvement in teaching and clarification.
+S2118,Neha Sharma,IT,C1001,Python Programming,I501,Deepak Sharma,3,5,3,5,4,1,4,0.5,78,81,92,Very satisfied with the course and teaching.
+S2014,Neha Gupta,EEE,C1017,Operating Systems,I506,Sunitha Menon,4,4,5,3,2,4,4,0.58,52,53,94,Very satisfied with the course and teaching.
+S2013,Kavya Choudhary,CSE,C1008,Electrical Machines,I503,Sunitha Rao,4,2,2,,4,2,2,-0.62,60,51,60,Needs improvement in teaching and clarification.
+S2250,Kavya Joshi,MECH,C1010,Engineering Mechanics,I504,Prakash Naidu,3,4,,1,5,,3,0.02,85,95,75,"Average experience, can be improved."
+S2259,Divya Iyer,EEE,C1007,Electrical Circuits,I503,Sunitha Rao,3,5,2,3,1,2,3,0.1,60,77,85,"Average experience, can be improved."
+S2261,Neha Choudhary,IT,C1010,Engineering Mechanics,I504,Prakash Naidu,3,4,2,4,1,2,3,-0.06,60,68,89,"Average experience, can be improved."
+S2077,Sneha Reddy,CIVIL,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,1,2,1,2,5,2,-0.56,44,87,69,Needs improvement in teaching and clarification.
+S2183,Arjun Gupta,IT,C1010,Engineering Mechanics,I504,Prakash Naidu,3,3,2,2,3,2,2,-0.58,74,48,71,Needs improvement in teaching and clarification.
+S2173,Priya Choudhary,CSE,C1007,Electrical Circuits,I503,Sunitha Rao,3,4,4,5,2,3,4,0.65,88,40,100,Very satisfied with the course and teaching.
+S2230,Sneha Choudhary,IT,C1016,Programming in C,I506,Sunitha Menon,3,1,,1,4,4,3,-0.18,64,92,75,"Average experience, can be improved."
+S2288,Kiran Singh,ECE,C1018,Computer Networks,I506,Sunitha Menon,5,4,2,3,2,3,3,0.12,42,68,77,"Average experience, can be improved."
+S2106,Sneha Reddy,CIVIL,C1004,Digital Electronics,I502,Sunitha Rao,3,1,2,1,5,4,3,-0.01,96,59,95,"Average experience, can be improved."
+S2071,Vikram Joshi,MECH,C1001,Python Programming,I501,Deepak Sharma,3,2,1,1,3,5,2,-1,61,55,82,
+S2007,Priya Sharma,MECH,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,5,3,3,4,5,4,0.89,67,92,98,
+S2235,Pooja Kumar,ECE,C1001,Python Programming,I501,Deepak Sharma,3,5,5,1,2,1,3,0.2,43,81,67,"Average experience, can be improved."
+S2028,Meena Kumar,EEE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,4,4,3,2,2,3,-0.19,100,56,61,"Average experience, can be improved."
+S2104,Pooja Gupta  ,IT,C1002,Data Structures,I501,Deepak Sharma,4,4,2,4,4,3,3,0.01,40,87,88,"Average experience, can be improved."
+S2068,Priya Singh,CSE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,4,3,2,3,5,3,-0.02,70,93,66,"Average experience, can be improved."
+S2092,Aditya Patel,IT,C1002,Data Structures,I501,Deepak Sharma,4,4,2,5,5,3,4,0.48,63,71,91,Very satisfied with the course and teaching.
+S2164,Sneha Sharma,IT,C1018,Computer Networks,I506,Sunitha Menon,5,3,3,4,2,1,3,-0.18,89,43,73,"Average experience, can be improved."
+S2102,Priya Singh,CSE,C1012,Machine Design,I504,Prakash Naidu,5,2,1,2,5,3,3,-0.08,46,70,73,"Average experience, can be improved."
+S2089,Vikram Kumar,IT,C1004,Digital Electronics,I502,Sunitha Rao,3,1,,4,1,1,2,-0.71,77,89,,Needs improvement in teaching and clarification.
+S2016,Neha Gupta,EEE,C1003,Database Management Systems,I501,Deepak Sharma,5,5,5,4,5,1,4,0.31,80,44,68,Very satisfied with the course and teaching.
+S2165,Sanjay Patel,CIVIL,C1009,Power Systems,I503,Sunitha Rao,5,3,2,4,1,4,3,0.08,93,70,86,"Average experience, can be improved."
+S2229,Neha Verma,CIVIL,C1001,Python Programming,I501,Deepak Sharma,3,1,4,5,5,5,4,0.75,79,42,97,Very satisfied with the course and teaching.
+S2239,Manoj Sharma,EEE,C1006,Communication Systems,I502,Sunitha Rao,5,3,3,3,5,1,3,0.18,59,98,92,"Average experience, can be improved."
+S2206,Kiran Joshi,MECH,C1014,Structural Engineering,I505,Swathi Chowdhury,4,4,5,2,3,2,3,0,48,,94,"Average experience, can be improved."
+S2156,Divya Sharma,CIVIL,C1010,Engineering Mechanics,I504,Prakash Naidu,3,4,5,4,,4,4,0.38,49,86,93,Very satisfied with the course and teaching.
+S2056,Neha Choudhary,MECH,C1018,Computer Networks,I506,Sunitha Menon,5,4,3,3,3,,3,-0.05,92,60,,"Average experience, can be improved."
+S2081,Kavya Iyer,MECH,C1018,Computer Networks,I506,Sunitha Menon,5,4,,1,1,2,2,-0.67,75,61,99,Needs improvement in teaching and clarification.
+S2221,Anjali Iyer,ECE,C1018,Computer Networks,I506,Sunitha Menon,5,1,3,4,3,4,3,0.18,50,45,84,"Average experience, can be improved."
+S2255,Kavya Joshi  ,ECE,C1009,Power Systems,I503,Sunitha Rao,5,3,6,2,4,4,3,0.04,66,80,73,"Average experience, can be improved."
+S2225,Vikram Joshi,CSE,C1011,Thermodynamics,I504,Prakash Naidu,4,4,6,4,1,1,3,-0.14,72,,88,"Average experience, can be improved."
+S2039,Sneha Sharma,MECH,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,2,2,2,2,5,3,-0.14,98,76,89,"Average experience, can be improved."
+S2181,Manoj Choudhary,CSE,C1007,Electrical Circuits,I503,Sunitha Rao,3,,6,2,5,4,3,0.06,66,46,91,"Average experience, can be improved."
+S2194,Manoj Gupta,MECH,C1005,Signals and Systems,I502,Sunitha Rao,4,1,2,3,3,5,3,0.03,83,63,98,"Average experience, can be improved."
+S2032,Sneha Gupta,ECE,C1007,Electrical Circuits,I503,Sunitha Rao,3,4,3,4,5,5,4,0.89,55,,90,Very satisfied with the course and teaching.
+S2097,Rahul Gupta,IT,C1009,Power Systems,I503,Sunitha Rao,5,1,3,1,3,2,2,-0.34,82,76,76,Needs improvement in teaching and clarification.
+S2139,Neha Iyer,IT,C1001,Python Programming,I501,Deepak Sharma,3,5,2,1,2,1,2,-0.49,80,94,77,Needs improvement in teaching and clarification.
+S2199,Rohit Reddy,IT,C1010,Engineering Mechanics,I504,Prakash Naidu,3,1,3,,4,1,2,-0.87,,89,82,Gooood teaching but improvemnt needed
+S2034,Aditya Kumar,MECH,C1006,Communication Systems,I502,Sunitha Rao,5,4,1,1,1,5,2,-0.98,99,98,75,Needs improvement in teaching and clarification.
+S2124,Manoj Choudhary,MECH,C1002,Data Structures,I501,Deepak Sharma,4,3,4,4,2,1,3,0.04,51,49,89,"Average experience, can be improved."
+S2104,Pooja Gupta,IT,C1005,Signals and Systems,I502,Sunitha Rao,4,2,2,3,3,5,3,0.01,85,100,,"Average experience, can be improved."
+S2069,Kiran Joshi,  CIVIL,C1001,Python Programming,I501,Deepak Sharma,3,2,2,,5,5,3,0.11,95,44,105,"Average experience, can be improved."
+S2129,Sneha Verma,MECH,C1008,Electrical Machines,I503,Sunitha Rao,4,4,1,2,3,5,3,0.14,90,62,69,"Average experience, can be improved."
+S2038,Sanjay Joshi,CSE,C1009,Power Systems,I503,Sunitha Rao,5,1,5,5,3,2,3,-0.18,49,93,81,"Average experience, can be improved."
+S2139,Neha Iyer,IT,C1007,Electrical Circuits,I503,Sunitha Rao,3,2,2,2,5,1,2,-0.54,57,88,94,Needs improvement in teaching and clarification.
+S2135,Priya Singh,CIVIL,C1004,Digital Electronics,I502,Sunitha Rao,3,2,4,3,5,4,4,0.31,45,69,83,Very satisfied with the course and teaching.
+S2064,Sanjay Verma,EEE,C1012,Machine Design,I504,Prakash Naidu,5,3,4,3,3,2,3,0.04,59,47,66,"Average experience, can be improved."
+S2161,Meena Iyer,MECH,C1005,Signals and Systems,I502,Sunitha Rao,4,1,3,3,3,1,2,-0.3,96,49,77,Needs improvement in teaching and clarification.
+S2183,Arjun Gupta,IT,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,2,4,4,5,3,4,0.99,58,48,72,Very satisfied with the course and teaching.
+S2058,Divya Singh,MECH,C1001,Python Programming,I501,Deepak Sharma,3,4,3,3,1,,3,-0.14,99,67,85,"Average experience, can be improved."
+S2177,Kiran Naidu,MECH,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,4,1,1,4,2,2,-0.54,67,94,82,Needs improvement in teaching and clarification.
+S2191,Rohit Reddy,ECE,C1014,Structural Engineering,I505,Swathi Chowdhury,4,4,1,5,5,1,3,0.08,92,54,97,"Average experience, can be improved."
+S2165,Sanjay Patel,CIVIL,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,5,4,2,2,2,3,0.12,76,54,,"Average experience, can be improved."
+S2041,Kiran Sharma,IT,C1007,Electrical Circuits,I503,Sunitha Rao,3,3,4,4,2,2,3,0.09,43,92,80,"Average experience, can be improved."
+S2182,Sanjay Kumar,MECH,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,1,1,5,5,3,3,0.19,52,100,91,Gooood teaching but improvemnt needed
+S2173,Priya Choudhary,CSE,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,2,3,5,5,4,4,0.8,55,80,99,Very satisfied with the course and teaching.
+S2047,Arjun Reddy,CIVIL,C1012,Machine Design,I504,Prakash Naidu,5,1,2,1,1,4,2,-0.34,92,85,65,Needs improvement in teaching and clarification.
+S2220,Rohit Rao,CSE,C1003,Database Management Systems,I501,Deepak Sharma,5,2,3,3,1,3,2,-0.44,,45,71,Needs improvement in teaching and clarification.
+S2028,Meena Kumar,EEE,C1006,Communication Systems,I502,Sunitha Rao,5,4,3,4,2,5,4,0.46,95,99,,Very satisfied with the course and teaching.
+S2004,Rahul Iyer,ECE,C1001,Python Programming,I501,Deepak Sharma,3,4,4,4,3,1,3,0.03,82,,62,"Average experience, can be improved."
+S2196,Sanjay Choudhary,CIVIL,C1012,Machine Design,I504,Prakash Naidu,5,1,5,3,1,2,2,-0.43,50,,77,Needs improvement in teaching and clarification.
+S2163,Meena Choudhary,CIVIL,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,4,4,2,,1,3,-0.11,96,,105,"Average experience, can be improved."
+S2137,Meena Naidu,ECE,C1011,Thermodynamics,I504,Prakash Naidu,4,2,3,2,3,3,3,0.09,72,41,96,"Average experience, can be improved."
+S2273,Sanjay Kumar,CIVIL,C1004,Digital Electronics,I502,Sunitha Rao,3,1,3,4,5,1,3,0.08,64,77,96,"Average experience, can be improved."
+S2180,Neha Choudhary,MECH,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,,2,1,1,4,2,-0.77,98,99,98,Needs improvement in teaching and clarification.
+S2202,Rohit Singh,  CIVIL,C1011,Thermodynamics,I504,Prakash Naidu,4,4,5,4,3,2,4,0.91,85,54,89,Very satisfied with the course and teaching.
+S2168,Arjun Joshi,MECH,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,5,2,5,3,3,4,0.49,86,87,74,Very satisfied with the course and teaching.
+S2165,Sanjay Patel,CIVIL,C1009,Power Systems,I503,Sunitha Rao,5,10,5,5,4,5,5,0.42,42,53,66,Very satisfied with the course and teaching.
+S2101,Priya Reddy,ECE,C1008,Electrical Machines,I503,Sunitha Rao,4,3,1,2,3,,2,-0.46,62,45,75,Needs improvement in teaching and clarification.
+S2265,Kavya Gupta,ECE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,1,1,4,1,2,2,-0.51,79,54,77,Needs improvement in teaching and clarification.
+S2016,Neha Gupta,EEE,C1006,Communication Systems,I502,Sunitha Rao,5,3,6,5,1,2,3,0.15,61,77,67,"Average experience, can be improved."
+S2122,Priya Iyer,EEE,C1014,Structural Engineering,I505,Swathi Chowdhury,4,4,4,2,5,2,3,-0.08,98,66,72,"Average experience, can be improved."
+S2043,Divya Rao,ECE,C1014,Structural Engineering,I505,Swathi Chowdhury,4,3,5,4,3,3,4,0.86,80,94,,
+S2210,Kavya Kumar,IT,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,2,4,2,4,4,3,0.18,94,67,63,"Average experience, can be improved."
+S2116,Pooja Rao,IT,C1007,Electrical Circuits,I503,Sunitha Rao,3,1,3,2,3,2,2,-0.83,97,57,97,Needs improvement in teaching and clarification.
+S2233,Neha Naidu,MECH,C1006,Communication Systems,I502,Sunitha Rao,5,1,3,2,2,4,2,-0.38,,40,61,Needs improvement in teaching and clarification.
+S2272,Priya Naidu  ,CIVIL,C1003,Database Management Systems,I501,Deepak Sharma,5,1,5,4,2,3,3,0.19,69,80,61,"Average experience, can be improved."
+S2082,Divya Patel,ECE,C1016,Programming in C,I506,Sunitha Menon,3,2,5,1,4,3,3,-0.06,71,70,,"Average experience, can be improved."
+S2278,Vikram Reddy,IT,C1004,Digital Electronics,I502,Sunitha Rao,3,3,5,2,2,,3,-0.05,50,71,63,"Average experience, can be improved."
+S2246,Rohit Choudhary,ECE,C1012,Machine Design,I504,Prakash Naidu,5,5,5,2,5,1,4,0.81,83,53,83,Gooood teaching but improvemnt needed
+S2251,Kavya Choudhary  ,ECE,C1006,Communication Systems,I502,Sunitha Rao,5,4,1,3,,3,2,-0.83,61,68,96,Needs improvement in teaching and clarification.
+S2109,Anjali Gupta,MECH,C1009,Power Systems,I503,Sunitha Rao,5,3,1,5,5,2,3,-0.13,71,47,88,"Average experience, can be improved."
+S2077,Sneha Reddy,CIVIL,C1006,Communication Systems,I502,Sunitha Rao,5,2,6,3,3,3,3,-0.12,65,82,61,"Average experience, can be improved."
+S2174,Sneha Joshi,EEE,C1008,Electrical Machines,I503,Sunitha Rao,4,4,2,1,1,4,2,-0.52,68,57,63,Needs improvement in teaching and clarification.
+S2237,Priya Patel,CIVIL,C1002,Data Structures,I501,Deepak Sharma,4,2,2,3,4,3,3,-0.1,51,71,61,"Average experience, can be improved."
+S2037,Meena Kumar,EEE,C1006,Communication Systems,I502,Sunitha Rao,5,,4,1,3,3,2,-1,59,,61,Needs improvement in teaching and clarification.
+S2112,Sanjay Sharma,MECH,C1002,Data Structures,I501,Deepak Sharma,4,2,5,2,2,2,3,0.1,40,54,74,"Average experience, can be improved."
+S2225,Vikram Joshi,CSE,C1005,Signals and Systems,I502,Sunitha Rao,4,1,2,3,3,1,2,-0.49,50,85,83,Needs improvement in teaching and clarification.
+S2224,Sanjay Kumar,CSE,C1002,Data Structures,I501,Deepak Sharma,4,5,1,1,5,1,3,-0.19,60,57,70,"Average experience, can be improved."
+S2118,Neha Sharma,IT,C1007,Electrical Circuits,I503,Sunitha Rao,3,2,1,2,2,1,2,-0.8,55,61,60,Needs improvement in teaching and clarification.
+S2203,Rahul Kumar,EEE,C1001,Python Programming,I501,Deepak Sharma,3,1,2,5,2,5,3,-0.05,88,96,71,"Average experience, can be improved."
+S2052,Sneha Joshi,CIVIL,C1006,Communication Systems,I502,Sunitha Rao,5,10,4,2,2,1,3,0.19,47,,63,"Average experience, can be improved."
+S2264,Divya Kumar,CSE,C1001,Python Programming,I501,Deepak Sharma,3,1,2,3,5,3,3,-0.06,93,87,,"Average experience, can be improved."
+S2244,Aditya Joshi,MECH,C1011,Thermodynamics,I504,Prakash Naidu,4,4,2,3,5,1,3,-0.14,55,92,66,"Average experience, can be improved."
+S2240,Priya Gupta,MECH,C1017,Operating Systems,I506,Sunitha Menon,4,1,4,5,1,1,2,-0.77,62,87,97,Needs improvement in teaching and clarification.
+S2077,Sneha Reddy,CIVIL,C1018,Computer Networks,I506,Sunitha Menon,5,1,1,4,3,,3,-0.14,99,60,83,"Average experience, can be improved."
+S2074,Sneha Joshi,EEE,C1002,Data Structures,I501,Deepak Sharma,4,2,2,,1,4,3,-0.18,66,66,66,
+S2102,Priya Singh,CSE,C1003,Database Management Systems,I501,Deepak Sharma,5,4,3,,5,1,3,-0.05,,43,,"Average experience, can be improved."
+S2020,Sneha Gupta,MECH,C1008,Electrical Machines,I503,Sunitha Rao,4,1,6,1,2,5,2,-0.68,50,48,66,Needs improvement in teaching and clarification.
+S2025,Rohit Reddy,EEE,C1012,Machine Design,I504,Prakash Naidu,5,2,1,2,4,1,2,-0.38,62,58,98,Needs improvement in teaching and clarification.
+S2249,Sneha Verma,CIVIL,C1017,Operating Systems,I506,Sunitha Menon,4,5,1,5,1,2,3,0.06,73,100,77,"Average experience, can be improved."
+S2135,Priya Singh,CIVIL,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,5,1,3,4,5,4,0.83,61,43,87,Very satisfied with the course and teaching.
+S2241,Pooja Sharma,MECH,C1005,Signals and Systems,I502,Sunitha Rao,4,1,5,5,2,1,3,-0.04,100,80,84,"Average experience, can be improved."
+S2027,Sneha Sharma,IT,C1009,Power Systems,I503,Sunitha Rao,5,2,2,2,5,,3,0.08,49,45,69,"Average experience, can be improved."
+S2237,Priya Patel,CIVIL,C1002,Data Structures,I501,Deepak Sharma,4,10,1,5,5,3,4,0.58,73,67,86,Very satisfied with the course and teaching.
+S2217,Meena Reddy,EEE,C1016,Programming in C,I506,Sunitha Menon,3,3,5,2,5,1,3,0.14,51,51,73,"Average experience, can be improved."
+S2216,Aditya Verma,CIVIL,C1003,Database Management Systems,I501,Deepak Sharma,5,5,1,5,1,1,3,0.13,54,52,88,"Average experience, can be improved."
+S2094,Neha Choudhary,EEE,C1013,Engineering Mathematics,I505,Swathi Chowdhury,3,3,6,1,,3,2,-0.96,40,75,79,Needs improvement in teaching and clarification.
+S2254,Neha Kumar,EEE,C1014,Structural Engineering,I505,Swathi Chowdhury,4,1,4,4,3,1,3,0.12,51,67,105,"Average experience, can be improved."
+S2087,Neha Joshi,CIVIL,C1009,Power Systems,I503,Sunitha Rao,5,5,5,2,1,4,3,0,90,44,76,"Average experience, can be improved."
+S2028,Meena Kumar,EEE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,4,,3,2,2,3,-0.19,100,56,61,"Average experience, can be improved."
+S2272,Priya Naidu,CIVIL,C1003,Database Management Systems,I501,Deepak Sharma,5,,5,4,2,3,3,0.19,69,80,61,"Average experience, can be improved."
+S2056,Neha Choudhary,MECH,C1018,Computer Networks,I506,Sunitha Menon,5,5,3,4,4,2,4,0.91,64,70,87,Very satisfied with the course and teaching.
+S2253,Kavya Choudhary,ECE,C1015,Geotechnical Engineering,I505,Swathi Chowdhury,5,3,3,2,4,1,3,-0.19,79,73,79,"Average experience, can be improved."
+S2038,Sanjay Joshi,CSE,C1009,Power Systems,I503,Sunitha Rao,5,,5,5,3,2,3,-0.18,49,93,81,"Average experience, can be improved."
+S2139,Neha Iyer,IT,C1001,Python Programming,I501,Deepak Sharma,3,5,2,1,2,1,2,-0.49,80,94,77,Needs improvement in teaching and clarification.
+S2173,Priya Choudhary,CSE,C1007,Electrical Circuits,I503,Sunitha Rao,3,4,4,5,2,3,4,0.65,88,,100,Very satisfied with the course and teaching.
+S2173,Priya Choudhary,  CSE,C1010,Engineering Mechanics,I504,Prakash Naidu,3,,1,1,4,3,3,-0.19,94,81,62,"Average experience, can be improved."
+S2132,Anjali Rao,CIVIL,C1016,Programming in C,I506,Sunitha Menon,3,2,1,4,5,,3,-0.14,93,41,66,"Average experience, can be improved."
+S2140,Divya Gupta,IT,C1012,Machine Design,I504,Prakash Naidu,5,3,2,3,,2,3,0.12,47,51,67,"Average experience, can be improved."
+S2161,Meena Iyer,MECH,C1005,Signals and Systems,I502,Sunitha Rao,4,1,3,3,,1,2,-0.3,96,49,77,Needs improvement in teaching and clarification.
+S2200,Rahul Singh,CSE,C1004,Digital Electronics,I502,Sunitha Rao,3,,5,2,4,2,4,0.45,80,68,65,Very satisfied with the course and teaching.
+S2221,Anjali Iyer,ECE,C1018,Computer Networks,I506,Sunitha Menon,5,1,3,4,3,4,3,0.18,50,45,84,
+S2039,Sneha Sharma,MECH,C1012,Machine Design,I504,Prakash Naidu,5,2,5,2,1,5,3,0.17,54,42,77,"Average experience, can be improved."
+S2096,Arjun Joshi,MECH,C1007,Electrical Circuits,I503,Sunitha Rao,3,1,5,4,1,1,2,-0.38,,64,94,Needs improvement in teaching and clarification.
